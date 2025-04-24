@@ -1,0 +1,16 @@
+ For Backned :-
+
+	> Open Anaconda Prompt 
+	> Activate ENV name -->( "conda activate myenv" )
+	> Built using python 3.6.12
+	>Navigaye to Project folder (D://skin_project) ..> where app.py file exists
+	> After this type "python app.py"
+
+For Front end:
+	
+	> Navigate to project folder where front end is located 
+	> Location :-D:\skin_project\front
+	> Run : - "npm run dev"
+
+Frotnend : http://localhost:5173(if it is free)
+Backend : http://localhost:5000 (Flask Server)
